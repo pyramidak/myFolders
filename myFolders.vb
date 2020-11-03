@@ -1,6 +1,6 @@
 ﻿#Region " Folders "
 
-Class myFolder2
+Class myFolder
 
 #Region " Get Files and Folders "
 
